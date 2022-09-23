@@ -1,0 +1,7 @@
+development:
+adapter: sqlite3
+database: db/school-dev.sqlite3
+
+production:
+adapter: sqlite3
+database: db/school-prod.sqlite3
